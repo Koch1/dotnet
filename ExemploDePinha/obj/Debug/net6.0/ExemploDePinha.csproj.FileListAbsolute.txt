@@ -1,0 +1,15 @@
+/home/estudo/GitHub/dotnet/ExemploDePinha/bin/Debug/net6.0/ExemploDePinha
+/home/estudo/GitHub/dotnet/ExemploDePinha/bin/Debug/net6.0/ExemploDePinha.deps.json
+/home/estudo/GitHub/dotnet/ExemploDePinha/bin/Debug/net6.0/ExemploDePinha.runtimeconfig.json
+/home/estudo/GitHub/dotnet/ExemploDePinha/bin/Debug/net6.0/ExemploDePinha.dll
+/home/estudo/GitHub/dotnet/ExemploDePinha/bin/Debug/net6.0/ExemploDePinha.pdb
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ExemploDePinha.csproj.AssemblyReference.cache
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ExemploDePinha.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ExemploDePinha.AssemblyInfoInputs.cache
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ExemploDePinha.AssemblyInfo.cs
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ExemploDePinha.csproj.CoreCompileInputs.cache
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ExemploDePinha.dll
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/refint/ExemploDePinha.dll
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ExemploDePinha.pdb
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ExemploDePinha.genruntimeconfig.cache
+/home/estudo/GitHub/dotnet/ExemploDePinha/obj/Debug/net6.0/ref/ExemploDePinha.dll
